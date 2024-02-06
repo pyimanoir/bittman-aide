@@ -1,12 +1,16 @@
-# Ignore Python virtual environments
+# Python virtual environments
 .venv/
 
-# Ignore PyCharm project settings and workspace files
+# PyCharm project settings and workspace files
 .idea/
 *.iml
 
-# Ignore hidden folders
+# Hidden folders
 .*/
 
-# Ignore specific file
+# Specific files
 api.txt
+
+# Python bytecode directories
+__pycache__/
+*.py[cod]
