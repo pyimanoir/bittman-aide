@@ -56,6 +56,7 @@ Alternatively, see the GitHub documentation on [creating a pull request](https:/
 Thanks to the following people who have contributed to this project:
 
 - Phoebe, my cat, for the patience of hearing Pixies and Sex Pistols on the same day.
+- Bittman, for the inspiration.
 
 ## Contact
 
