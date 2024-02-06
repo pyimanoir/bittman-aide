@@ -2,6 +2,7 @@
 from datetime import datetime
 from get_game_release import search_games_by_date, get_anniversary_years
 
+
 def main():
     """
     Main function to fetch games from RAWG API that are celebrating significant anniversaries
