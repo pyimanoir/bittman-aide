@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+.venv/
+
+# Ignore PyCharm project settings and workspace files
+.idea/
+*.iml
+
+# Ignore hidden folders
+.*/
+
+# Ignore specific file
+api.txt
