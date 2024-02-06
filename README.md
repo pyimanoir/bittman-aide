@@ -8,11 +8,21 @@ This Python script allows users to find video games that are celebrating signifi
 - Filter games based on user-specified month and day.
 - Display game titles along with their release dates and the specific anniversary being celebrated.
 
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
-- Python 3.6 or higher installed on your system.
+- Python 3.x installed on your system.
 - An API key from [RAWG Video Game Database](https://rawg.io/apidocs).
+- Pip (Python package installer) for installing dependencies.
+
+## Installation
+
+Follow these steps to install the necessary dependencies for the project:
+
+```bash
+pip install requests
+```
 
 ## Setup
 
